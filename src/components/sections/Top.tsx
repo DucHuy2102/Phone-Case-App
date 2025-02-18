@@ -31,8 +31,8 @@ export default function Top() {
                         flex flex-col items-center lg:items-start'
                     >
                         {/* logo phone case app */}
-                        <div className='absolute left-0 w-28 -top-20 hidden lg:block'>
-                            <div className='absolute inset-x-0 bottom-0 bg-gradient-to-t via-slate-50/50 from-slate-50 h-28' />
+                        <div className='absolute left-0 w-28 -top-24 hidden lg:block'>
+                            <div className='absolute inset-x-0 bottom-0 bg-gradient-to-t via-slate-50/50 from-slate-50 h-20' />
                             <Image
                                 src='/snake-1.png'
                                 alt='Logo Snake App'
